@@ -1,0 +1,55 @@
+NovaMart — Interactive Prototype
+=================================
+
+Figma Prototype URL:
+https://www.figma.com/proto/HY28DFLbuBUwiqa2ZKs7Id/NovaMart-%E2%80%94-UI-UX-Design-System?node-id=6-2&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A2&page-id=2%3A2
+
+Figma Design File URL:
+https://www.figma.com/design/HY28DFLbuBUwiqa2ZKs7Id/NovaMart-%E2%80%94-UI-UX-Design-System?node-id=2-2
+
+=================================
+Prototype Details
+=================================
+Starting frame   : M01 Homepage
+Device           : iPhone 14 (390 x 844px)
+Total screens    : 13 mobile + 6 desktop = 19 screens
+Total connections: 68 prototype connections
+Transitions      : Dissolve, 300ms, ease-out
+
+=================================
+Flow Index
+=================================
+Flow J1 — Customer Shopping (Priya)
+  Start : M01 Homepage
+  Path  : Homepage → Search Results → Product Detail
+          → Cart Drawer → Checkout → Order Confirmation
+          → Order Tracking
+  Connections: 14
+
+Flow J2 — Vendor Onboarding (Kavya)
+  Start : M09 Vendor Onboarding Step 1
+  Path  : Step 1 → Step 2 → Step 3 → Step 4
+          → Store Editor → Analytics
+  Connections: 8
+
+Flow J3 — Order Tracking (Sunita)
+  Start : M07 My Orders
+  Path  : My Orders → Live Order Tracking
+  Connections: 5
+
+Bottom Nav — all 8 customer screens
+  5 tabs x 8 screens = 40 connections
+
+Total: 14 + 8 + 5 + 40 = 67 + 1 admin = 68
+
+=================================
+Instructions for Judges
+=================================
+1. Open the Prototype URL above
+2. Click anywhere on the screen to begin
+3. All bottom nav tabs are interactive on every customer screen
+4. Admin dashboard (A01) is desktop-only — best viewed on wide screen
+5. Full screen inventory in /research/novamart_sitemap.pdf (Page 4)
+
+=================================
+Zidio Development — UI/UX Design Domain | March 2026
