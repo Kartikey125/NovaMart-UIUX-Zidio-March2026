@@ -96,7 +96,7 @@ NovaMart-UIUX-Zidio-March2026/
 │   └── figma_link.txt                        # Public Figma prototype URL
 │
 ├── case-study/
-│   └── NovaMart_CaseStudy_March2026.pdf      # Full project case study
+│   └── NovaMart_case_study.pdf               # Full project case study
 │
 └── README.md                                 # This file
 ```
@@ -147,9 +147,8 @@ NovaMart-UIUX-Zidio-March2026/
 
 | Deliverable | Link |
 |-------------|------|
-| 🎨 Interactive Figma Prototype | [View Prototype](#) ← replace with your Figma share URL |
-| 📹 Demo Walkthrough Video | [Watch on Loom/YouTube](#) ← replace with your video URL |
-| 📋 Case Study PDF | `/case-study/NovaMart_CaseStudy_March2026.pdf` |
+| 🎨 Interactive Figma Prototype | [View Prototype](https://www.figma.com/proto/HY28DFLbuBUwiqa2ZKs7Id/NovaMart-%E2%80%94-UI-UX-Design-System?node-id=6-2&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A2&page-id=2%3A2) |
+| 📋 Case Study PDF | [View Case Study](./case-study/NovaMart_case_study.pdf) |
 
 ---
 
@@ -167,7 +166,6 @@ Day 15   Interactive Prototype   68 connections across 4 flows
 Day 18   Accessibility Audit     WCAG 2.1 AA compliance check
 Day 22   Usability Testing       8-participant test, iteration
 Day 26   Case Study              Full documentation
-Day 27   Demo Video              4–8 min Loom walkthrough
 Day 28   Final QA + Submission   Zidio dashboard
 ```
 
@@ -227,7 +225,7 @@ With time estimate per step, "Save & Continue Later" on every step, and an anima
 | Visual Design & Aesthetics | 20% | Consistent design system, portal colour identity, WCAG compliant |
 | Interaction Design & Prototyping | 20% | 68 prototype connections, 4 user flows, micro-interaction annotations |
 | Documentation Quality | 10% | Case study PDF, design system doc, sitemap, journey maps |
-| Presentation & Polish | 10% | Demo video, annotated screens, professional case study |
+| Presentation & Polish | 10% | Annotated screens, professional case study, design system documentation |
 
 ---
 
